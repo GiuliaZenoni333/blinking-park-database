@@ -2,10 +2,11 @@
 
 ## Overview
 
-Blinkin' Park is a university project developed as part of the Database Systems Laboratory during the 2025/2026 academic year.
+Blinkin' Park is a university database design project based on a parking management system.
 
-The project focuses on designing a relational database, from conceptual modeling to logical design and SQL implementation.
+The case study involves managing parking facilities, vehicles, customers, subscriptions, parking sessions, and staff.
 
+The project focuses on conceptual and logical database design, relational modeling, and SQL implementation, following the requirements of the Database Systems Laboratory at the University of Turin.
 ## Project Objectives
 
 - Apply database design principles to a practical case study.
